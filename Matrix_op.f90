@@ -14,5 +14,4 @@ PROGRAM matrix_op
 
     print *, Ham(:,1)
     end program
-
     
